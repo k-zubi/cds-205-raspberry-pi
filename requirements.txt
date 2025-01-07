@@ -1,0 +1,9 @@
+cerebras_cloud_sdk
+python-dotenv
+fal-client
+pyyaml
+pynput
+elevenlabs
+pygame
+pyaudio
+gpiozero
