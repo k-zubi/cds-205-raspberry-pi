@@ -36,7 +36,7 @@ This project is a simple voice assistant application developed by Kai Zuberbühl
 ### Functions
 
 - **Class:** `Functions`
-- **Description:** This component manages the execution of various functions that the voice assistant can perform, such as enabling or disabling alarms and announcing the time. The `Functions` class implements the `FunctionInterface` and provides a structured way to define and call functions based on user requests.
+- **Description:** This component manages the execution of various functions that the voice assistant can perform, such as enabling or disabling the alarm. The `Functions` class implements the `FunctionInterface` and provides a structured way to define and call functions based on user requests.
 - **Function Management:** The `Functions` class contains a list of available functions, each defined with a reference, description, and parameters. It parses user requests to determine which functions to call and executes them accordingly.
 - **YAML Parsing:** The component uses YAML to parse and manage function calls, ensuring that requests are formatted correctly and that the appropriate functions are executed.
 - **Extensibility:** New functions can be added by defining them in the `Functions` class, making it easy to extend the capabilities of the voice assistant with minimal changes to the existing code.
