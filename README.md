@@ -74,7 +74,7 @@ To set up the application on your Raspberry Pi, follow these steps:
 
    For using the WM8960 sound card with your Raspberry Pi, you need to install the appropriate drivers. Follow the steps in the official installation guide at https://www.waveshare.com/wiki/WM8960_Audio_HAT#Install_Driver.
 
-4. **Install MPV and LGPIO:**
+4. **Install MPV:**
 
    The application uses MPV to play audio streams. Install it using the following command:
 
