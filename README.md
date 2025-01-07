@@ -76,11 +76,10 @@ To set up the application on your Raspberry Pi, follow these steps:
 
 4. **Install MPV and LGPIO:**
 
-   The application uses MPV to play audio streams and LGPIO do detect the button being pressed. Install them using the following commands:
+   The application uses MPV to play audio streams. Install it using the following command:
 
    ```bash
    sudo apt-get install mpv
-   sudo apt-get install python3-rpi-lgpio
    ```
 
 5. **Setup API Keys:**
