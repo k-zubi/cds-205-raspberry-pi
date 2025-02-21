@@ -2,6 +2,8 @@
 
 This project is a simple voice assistant application developed by Kai Zuberbühler as part of the CDS 205 module for the B.Sc. Artificial Intelligence in Software Engineering program at the University of Applied Sciences of the Grisons. The application is designed to run on a Raspberry Pi with a WM8960 sound card HAT and leverages various AI services to provide a seamless voice interaction experience.
 
+For additional information, have a look at the [short paper](https://github.com/k-zubi/cds-205-raspberry-pi/blob/main/short-paper.pdf).
+
 ## Features
 
 - **Modular Design:** The application is built using base classes for each component, allowing for easy integration of alternative service providers.
